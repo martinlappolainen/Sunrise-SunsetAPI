@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w0iIIpUTxV49Zh0EmfqwK90yjkOMcC11YPZzn9ig503ZlMdl9liqhPlwo8EqmbFFcbuoIc0wvH6t/wR08srSmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\SunriseSunsetAPI\\SunriseSunsetAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
